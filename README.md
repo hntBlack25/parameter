@@ -8,3 +8,5 @@
 # pip install beautifulsoup4
 # pip install requests beautifulsoup4 jinja2
 # python mn.py
+
+# follow Telegram < @Black2_5 >
